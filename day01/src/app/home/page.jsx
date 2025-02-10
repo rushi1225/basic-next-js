@@ -14,6 +14,8 @@ const Home = () => {
             <h1>Home Page</h1>
 
             <Link href='/about'>About Page</Link>
+            <br />
+            <Link href='/contact'>Contact Page</Link>
 
             {/* link and navigation */}
 
