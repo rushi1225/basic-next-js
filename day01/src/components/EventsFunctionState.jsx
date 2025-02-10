@@ -14,9 +14,10 @@ const EventsFunctionState = () => {
     }
     return (
         <>
-            <h1>Events Function And Components</h1>
+            <h1>Events Function And State</h1>
             <button onClick={() => alert('hello rushi')}>click event</button>
             <button onClick={sayHello}>Say Hello</button>
+
             <h3>my name is {firstname}</h3>
             <button onClick={changeName}>change name  State</button>
         </>
